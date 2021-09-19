@@ -1,0 +1,14 @@
+com/homerentalapp/ReactNativeFlipper.java
+ com.homerentalapp.ReactNativeFlipper
+ com.homerentalapp.ReactNativeFlipper$1
+ com.homerentalapp.ReactNativeFlipper$2
+ com.homerentalapp.ReactNativeFlipper$2$1
+com/homerentalapp/MainApplication.java
+ com.homerentalapp.MainApplication
+ com.homerentalapp.MainApplication$1
+com/homerentalapp/MainActivity.java
+ com.homerentalapp.MainActivity
+com/homerentalapp/BuildConfig.java
+ com.homerentalapp.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
